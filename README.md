@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SudhanshuPrabhat
+- 👋 Hi, I’m @Shu
 - 👀 I’m interested in computer programming, developing, etc.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on LinkedIn.
